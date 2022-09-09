@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 // the moment we extend our class using HttpServlet our simple class becomes a servlet
 public class AddServlet extends HttpServlet{
 	
-// we will u	se the name service as it belongs to the servlet life cycle
+// we will use the name service as it belongs to the servlet life cycle
 	
 /* for performing our operations we are going to pass 2 parameters in our service method
 1.Request
