@@ -24,5 +24,4 @@ PrintWriter out = res.getWriter();
 out.println("The result is "+k);
 
 }
-
 }
